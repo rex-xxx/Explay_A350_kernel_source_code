@@ -26,7 +26,7 @@
 #include <linux/miscdevice.h>
 #include <linux/poll.h>
 
-#include <mc32x0_driver.h>
+#include <linux/mc32x0_driver.h>
 #include <mach/socinfo.h>
 
 

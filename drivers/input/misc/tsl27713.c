@@ -24,7 +24,7 @@
 #include <asm/uaccess.h>
 #include <asm/errno.h>
 #include <asm/delay.h>
-#include <taos_common.h>
+#include <linux/taos_common.h>
 #include <linux/delay.h>
 //iVIZM
 #include <linux/irq.h> 

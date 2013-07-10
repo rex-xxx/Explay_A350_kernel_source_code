@@ -10,7 +10,7 @@
 
 
 
-#include <mc32x0_driver.h>
+#include <linux/mc32x0_driver.h>
 //nclude <linux/kernel.h>
 
 
